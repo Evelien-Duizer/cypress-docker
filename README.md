@@ -1,4 +1,4 @@
-# cypress-open-from-docker-compose
+# cypress-docker
 
 ## Run headless tests
 
