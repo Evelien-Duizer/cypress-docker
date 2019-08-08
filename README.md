@@ -24,7 +24,7 @@ docker-compose -f docker-compose.yml -f cy-open.yml up --exit-code-from cypress
 
 You should see Cypress open and be able to run tests, change files, see tests rerun.
 
-![Cypress open](images/cy-open.png)
+![Cypress Test Runner](images/cypres-testrunner.png)
 
 ## More information
 
