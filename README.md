@@ -19,7 +19,7 @@ To start Cypress Test Runner (just like `cypress open` does), you need to:
 
 ```shell
 cd e2e
-docker-compose -f docker-compose.yml -f cy-open.yml up --exit-code-from cypress
+docker-compose -f docker-compose.yml -f cy-open.yml up cypress
 ```
 
 You should see Cypress open and be able to run tests, change files, see tests rerun.
